@@ -1,0 +1,15 @@
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe.config
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.exe
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\bin\Debug\AracKiralamaOtomasyon.pdb
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csprojResolveAssemblyReference.cache
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.GirisForm.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Properties.Resources.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.csproj.GenerateResource.Cache
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.exe
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.pdb
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.KullaniciArayuz.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.UyeOlForm.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.YonetimArayuz.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.SubeArayuz.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.AracResimForm.resources
+C:\Users\KubilaY\Desktop\C#\AracKiralamaOtomasyon\AracKiralamaOtomasyon\obj\Debug\AracKiralamaOtomasyon.Presentation.AracGuncelle.resources
